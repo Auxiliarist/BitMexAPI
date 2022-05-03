@@ -1,0 +1,9 @@
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI\bin\Debug\netstandard2.0\BitMexAPI.deps.json
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI\bin\Debug\netstandard2.0\BitMexAPI.dll
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI\bin\Debug\netstandard2.0\BitMexAPI.pdb
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI\obj\Debug\netstandard2.0\BitMexAPI.csprojAssemblyReference.cache
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI\obj\Debug\netstandard2.0\BitMexAPI.csproj.CoreCompileInputs.cache
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI\obj\Debug\netstandard2.0\BitMexAPI.AssemblyInfoInputs.cache
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI\obj\Debug\netstandard2.0\BitMexAPI.AssemblyInfo.cs
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI\obj\Debug\netstandard2.0\BitMexAPI.dll
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI\obj\Debug\netstandard2.0\BitMexAPI.pdb

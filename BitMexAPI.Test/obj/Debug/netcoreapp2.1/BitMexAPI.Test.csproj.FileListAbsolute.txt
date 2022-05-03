@@ -1,0 +1,17 @@
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\bin\Debug\netcoreapp2.1\BitMexAPI.Test.deps.json
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\bin\Debug\netcoreapp2.1\BitMexAPI.Test.runtimeconfig.json
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\bin\Debug\netcoreapp2.1\BitMexAPI.Test.runtimeconfig.dev.json
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\bin\Debug\netcoreapp2.1\BitMexAPI.Test.dll
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\bin\Debug\netcoreapp2.1\BitMexAPI.Test.pdb
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\bin\Debug\netcoreapp2.1\BitMexAPI.dll
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\bin\Debug\netcoreapp2.1\BitMexAPI.pdb
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\obj\Debug\netcoreapp2.1\BitMexAPI.Test.csprojAssemblyReference.cache
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\obj\Debug\netcoreapp2.1\BitMexAPI.Test.csproj.CoreCompileInputs.cache
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\obj\Debug\netcoreapp2.1\BitMexAPI.Test.AssemblyInfoInputs.cache
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\obj\Debug\netcoreapp2.1\BitMexAPI.Test.AssemblyInfo.cs
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\obj\Debug\netcoreapp2.1\BitMexAPI.Test.csproj.CopyComplete
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\obj\Debug\netcoreapp2.1\BitMexAPI.Test.dll
+C:\Users\Donut\source\libraries\BitMexAPI\BitMexAPI.Test\obj\Debug\netcoreapp2.1\BitMexAPI.Test.pdb
